@@ -1,0 +1,12 @@
+/target/
+# Eclipse / IntelliJ / VS Code project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
